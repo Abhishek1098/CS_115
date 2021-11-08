@@ -8,3 +8,6 @@ Topics:
 * Recursion
 * Loops
 * Variables
+* turtle
+* binary (compression)
+* base conversion
